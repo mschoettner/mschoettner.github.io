@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mikkel Schöttner
-email: mikkel.schoettner@yahoo.de
+email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal website. Its main purpose at the time is to host "Open Science and Neuroimaging - A Practical Guide"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,6 +28,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections:
+  chapters:
+    output: true
+
+exclude:
+  - _posts/2019-08-13-welcome-to-jekyll.markdown
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

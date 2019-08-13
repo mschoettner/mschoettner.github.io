@@ -1,0 +1,11 @@
+---
+layout: default
+title: Open Science Guide
+---
+<h1>Open Science and Neuroimaging - A Practical Guide</h1>
+
+<ul>
+  {% for chapter in site.chapters %}
+    <h2><a href="{{ chapter.url }}">{{ chapter.title }}</a></h2>
+  {% endfor %}
+</ul>

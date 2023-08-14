@@ -16,3 +16,11 @@ You can find me:
 or write a mail to mikkel.schottner@unil.ch!
 
 [Link to my CV](https://drive.google.com/file/d/12XFJ7mTA7GXm4ha0kBGmsaxsjDEfClUR/view?usp=drive_link)
+
+## Research Interests
+
+I am interested in predicting behavioral traits from neuroimaging data, using graph signal processing and machine learning. Furthermore I research how behavior organizes, exploring the dimensional structure of different behavioral traits. I explore this in healthy participants and patients with psychosis.
+
+## Personal
+
+I have a rotating array of hobbies, including fitness, hiking, biking, skiing, playing the guitar, singing in a choir, playing D&D, painting miniatures, playing video games, cooking, and more.

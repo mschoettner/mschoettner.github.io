@@ -16,11 +16,12 @@
 title: Mikkel Schöttner
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal website where I blog mainly about science stuff. Also have a look at my open science guide "Open Science and Neuroimaging - A Practical Guide".
+  Personal Website of Mikkel Schöttner, PhD Student at Connectomicslab, University of Lausanne.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mikkelschoett
 github_username:  mschoettner
+twitter_username: mikkelschoett
+linkedin_username: mikkel-schoettner
 
 # Build settings
 markdown: kramdown

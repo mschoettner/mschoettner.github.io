@@ -5,4 +5,9 @@
 layout: home
 ---
 
-Where will this appear?
+Hi! I am Mikkel Schöttner, PhD student at [Connectomicslab](https://wp.unil.ch/connectomics/), at the [University of Lausanne](https://www.unil.ch/index.html).
+
+You can find me:
+- on [Github](https://github.com/mschoettner)
+- on [LinkedIn](https://www.linkedin.com/in/mikkel-schoettner/)
+- on [Twitter](https://twitter.com/mikkelschoett)
